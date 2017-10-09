@@ -1,0 +1,35 @@
+TASK course.labs.graphicslab id=331
+  ACTIVITY course.labs.graphicslab/.BubbleActivity 21d463e1 pid=332
+    Local Activity 33300c93 State:
+      mResumed=true mStopped=false mFinished=false
+      mLoadersStarted=true
+      mChangingConfigurations=false
+      mCurrentConfig={0 1.0 220mcc1mnc en_US ?layoutDir sw360dp w360dp h615dp 480dpi nrml long port finger -keyb/v/h -nav/h mkbd/? s.41}
+      mMultiWindowStyle=MultiWindowStyle{type=0, zone=ZONE_UNKNOWN, option=0x00000000, bounds=null, isNull=false, isolatedCenterPoint=Point(0, 0), scale=0.0, specificTaskId=-1}
+    FragmentManager misc state:
+      mActivity=course.labs.graphicslab.BubbleActivity@33300c93
+      mContainer=android.app.Activity$1@3bfc54d0
+      mCurState=5 mStateSaved=false mDestroyed=false
+    ViewRoot:
+      mAdded=true mRemoved=false
+      mConsumeBatchedInputScheduled=false
+      mConsumeBatchedInputImmediatelyScheduled=false
+      mPendingInputEventCount=0
+      mProcessInputEventsScheduled=false
+      mTraversalScheduled=false
+      android.view.ViewRootImpl$NativePreImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$ImeInputStage: mQueueLength=0
+      android.view.ViewRootImpl$NativePostImeInputStage: mQueueLength=0
+    Choreographer:
+      mFrameScheduled=false
+      mLastFrameTime=235749470 (98523 ms ago)
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{1527acc9 V.E..... R......D 0,0-1080,1920}
+        android.widget.LinearLayout{4ffffce V.E..... .......D 0,0-1080,1920}
+          android.view.ViewStub{844deef G.E..... ......I. 0,0-0,0 #1020439}
+          android.widget.FrameLayout{1d19edfc V.E..... .......D 0,0-1080,1920 #1020002 android:id/content}
+            android.widget.RelativeLayout{17754c85 V.E..... .......D 0,0-1080,1920 #7f070000 app:id/frame}
+              course.labs.graphicslab.BubbleActivity$BubbleView{2e204ada V.ED.... ........ 0,0-1080,1920}
+              course.labs.graphicslab.BubbleActivity$BubbleView{392a7b0b V.ED.... ......ID 0,0-1080,1920}
+    Looper (main, tid 1) {3e15ede8}
+      (Total messages: 0, idling=false, quitting=false)
