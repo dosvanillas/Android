@@ -1,0 +1,5 @@
+"C:/Users/Jack/AndroidStudioProjects/Lab7_GraphicsLab/app/src/androidTest/java/course/labs/graphicslab/tests/BubbleActivityFling.java"
+"C:/Users/Jack/AndroidStudioProjects/Lab7_GraphicsLab/app/src/androidTest/java/course/labs/graphicslab/tests/BubbleActivityFloatOffScreen.java"
+"C:/Users/Jack/AndroidStudioProjects/Lab7_GraphicsLab/app/src/androidTest/java/course/labs/graphicslab/tests/BubbleActivityMultiple.java"
+"C:/Users/Jack/AndroidStudioProjects/Lab7_GraphicsLab/app/src/androidTest/java/course/labs/graphicslab/tests/BubbleActivityPop.java"
+"C:/Users/Jack/AndroidStudioProjects/Lab7_GraphicsLab/app/build/generated/source/buildConfig/androidTest/debug/course/labs/graphicslab/test/BuildConfig.java"
