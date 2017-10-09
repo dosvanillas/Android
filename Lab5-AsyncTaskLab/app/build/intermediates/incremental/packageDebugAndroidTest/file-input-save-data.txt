@@ -1,0 +1,12 @@
+#Internal package file, do not edit.
+#Tue Sep 26 15:05:00 CEST 2017
+1.base=C\:\\Users\\Jack\\Downloads\\Other Stud Projects\\Lab5-AsyncTaskLab\\app\\build\\intermediates\\transforms\\dex\\androidTest\\debug\\folders\\1000\\1f\\main
+1.file=C\:\\Users\\Jack\\Downloads\\Other Stud Projects\\Lab5-AsyncTaskLab\\app\\build\\intermediates\\transforms\\dex\\androidTest\\debug\\folders\\1000\\1f\\main\\classes.dex
+2.base=C\:\\Users\\Jack\\Downloads\\Other Stud Projects\\Lab5-AsyncTaskLab\\app\\build\\intermediates\\transforms\\mergeJavaRes\\androidTest\\debug\\jars\\2\\1f\\main.jar
+2.set=JAVA_RESOURCE
+2.file=C\:\\Users\\Jack\\Downloads\\Other Stud Projects\\Lab5-AsyncTaskLab\\app\\build\\intermediates\\transforms\\mergeJavaRes\\androidTest\\debug\\jars\\2\\1f\\main.jar\\com\\robotium\\solo\\RobotiumWeb.js
+count=3
+1.set=DEX
+0.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\Jack\\Downloads\\Other Stud Projects\\Lab5-AsyncTaskLab\\app\\build\\intermediates\\res\\resources-debug-androidTest.ap_
+0.file=C\:\\Users\\Jack\\Downloads\\Other Stud Projects\\Lab5-AsyncTaskLab\\app\\build\\intermediates\\res\\resources-debug-androidTest.ap_\\AndroidManifest.xml
