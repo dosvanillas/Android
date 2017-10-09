@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/info"
+        android:title="@string/option_moreinfo"
+        android:showAsAction="never" />
+    <item android:id="@+id/recolor"
+        android:title="Randomize Colors"
+        android:showAsAction="ifRoom" />
+</menu>

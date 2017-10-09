@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ModernArtUI</string>
+    <string name="option_moreinfo">More Information</string>
+    <string name="inspired_text">Inspired by the works of Tom Sawyer displayed at the Museum of Modern Art\n\nVisit MoMA now!</string>
+    <string name="dialog_positive_text">Visit MoMA</string>
+    <string name="dialog_negative_text">Not Now</string>
+</resources>
