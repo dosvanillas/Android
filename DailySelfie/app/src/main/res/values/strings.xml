@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DailySelfie</string>
+    <string name="button_text">Take a Selfie</string>
+    <string name="gallery_button_text">View Selfie History</string>
+</resources>
