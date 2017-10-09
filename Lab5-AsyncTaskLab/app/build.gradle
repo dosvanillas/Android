@@ -1,15 +1,26 @@
-// Top-level build file where you can add configuration options common to all sub-projects/modules.
-buildscript {
-    repositories {
-        jcenter()
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 18
+    buildToolsVersion "26.0.1"
+
+    defaultConfig {
+        applicationId "course.labs.asynctasklab"
+        minSdkVersion 18
+        targetSdkVersion 21
+
+        testApplicationId "course.labs.asynctasklab.tests"
+        testInstrumentationRunner "android.test.InstrumentationTestRunner"
     }
-    dependencies {
-        classpath 'com.android.tools.build:gradle:2.3.3'
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
     }
 }
 
-allprojects {
-    repositories {
-        jcenter()
-    }
+dependencies {
+    androidTestCompile 'com.jayway.android.robotium:robotium-solo:5.3.1'
 }
